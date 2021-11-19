@@ -1,0 +1,3 @@
+main.py aa.txt sendme.txt 3
+
+checkPopularity.py 1
